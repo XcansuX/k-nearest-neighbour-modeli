@@ -1,1 +1,1 @@
-jupiter notebook'ta iyi ve kötü huylu timör verilerini görselleştirme 
+İyi-kötü huylu timör verilerini K-Nearest Neighbour modeliyle görselleştirme
